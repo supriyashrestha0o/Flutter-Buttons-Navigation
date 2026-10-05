@@ -1,17 +1,66 @@
-# flutter_buttons_navigation
+# Flutter Buttons & Navigation
 
-A new Flutter project.
+A Flutter mobile application demonstrating different Material Design
+button variants and navigation techniques.
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+This project was developed as part of a practical Flutter assignment.
+It demonstrates:
 
-A few resources to get you started if this is your first Flutter project:
+- Different Material button variants
+- Multiple screens
+- Navigator.push()
+- Navigator.pop()
+- Navigator.pushReplacement()
+- Named routes
+- Icon buttons
+- Floating Action Button
+- Responsive mobile UI
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Material Buttons
+
+- Elevated Button
+- Filled Button
+- Filled Tonal Button
+- Outlined Button
+- Text Button
+- Icon Button
+- Floating Action Button
+- Buttons with icons
+- Custom-styled button
+
+### Navigation
+
+The application demonstrates:
+
+- `Navigator.push()`
+- `Navigator.pop()`
+- `Navigator.pushReplacement()`
+- `Navigator.pushNamed()`
+
+## Screenshots
+
+### Login Screen
+
+![Login Screen](screenshots/login.png)
+
+### Button Gallery
+
+![Button Gallery](screenshots/button_gallery.png)
+
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Android Studio
+- GitHub
+
+
+## Author
+
+Supriya Shrestha
